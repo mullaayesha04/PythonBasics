@@ -4,8 +4,9 @@ This repository consists of a list of Python basic code. Each folder contains on
 
 ## Contributing
 
-We encourage contributions from the community to make this repository even more valuable. Whether you want to add a new Python script or enhance an existing one, we welcome your input. Here's how you can contribute:
+We encourage contributions from the community to make this repository even more valuable. Whether you want to add a new Python code or modify an existing one, we welcome your input. 
 
+Here's how you can contribute:
 
 ### Adding a New Script
 
